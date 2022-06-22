@@ -1,0 +1,6 @@
+name: SaneCrates
+version: '${project.version}'
+main: middlesand.sanecrates.SaneCrates
+api-version: 1.19
+authors: [ Middle_Sand ]
+softdepend: [HolographicDisplays]
