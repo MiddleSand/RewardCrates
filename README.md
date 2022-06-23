@@ -1,6 +1,6 @@
-# SaneCrates
+# RewardCrates
 
-SaneCrates is an upcoming crates plugin with excellent customizability, seamless integration, elastic operating parameters, and powerful simplicity. Upon completion this free resource will be the best friend of any server operator's rewards setup.
+RewardCrates is an upcoming crates plugin with excellent customizability, seamless integration, elastic operating parameters, and powerful simplicity. Upon completion this free resource will be the best friend of any server operator's rewards setup.
 
 Planned feature list:
 
