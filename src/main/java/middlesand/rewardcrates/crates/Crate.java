@@ -1,7 +1,7 @@
-package middlesand.sanecrates.crates;
+package middlesand.rewardcrates.crates;
 
-import middlesand.sanecrates.configuration.CrateConfiguration;
-import middlesand.sanecrates.holograms.HologramAPIHookedHologram;
+import middlesand.rewardcrates.configuration.CrateConfiguration;
+import middlesand.rewardcrates.holograms.HologramAPIHookedHologram;
 import org.bukkit.Location;
 
 public class Crate {

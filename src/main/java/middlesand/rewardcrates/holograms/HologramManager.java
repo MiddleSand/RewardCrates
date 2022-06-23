@@ -1,10 +1,7 @@
-package middlesand.sanecrates.holograms;
-
-import com.gmail.filoghost.holographicdisplays.*;
+package middlesand.rewardcrates.holograms;
 
 import com.gmail.filoghost.holographicdisplays.api.HologramsAPI;
-import eu.decentsoftware.holograms.api.DecentHolograms;
-import middlesand.sanecrates.SaneCrates;
+import middlesand.rewardcrates.RewardCrates;
 import org.bukkit.Location;
 
 import java.util.logging.Level;
@@ -21,7 +18,7 @@ public class HologramManager {
     /**
      * Scans for any of the supported hologram plugins
      * */
-    public void scanForHologramSupport(SaneCrates sC) {
+    public void scanForHologramSupport(RewardCrates sC) {
         sC.getLogger().log(Level.INFO, "Scanning for hologram plugins to hook into...");
         if(sC.getServer().getPluginManager().getPlugin("HolographicDisplays")!= null) {
             sC.getLogger().log(Level.INFO, "Found HolographicDisplays");

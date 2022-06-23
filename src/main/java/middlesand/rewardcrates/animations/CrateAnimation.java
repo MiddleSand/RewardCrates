@@ -1,6 +1,6 @@
-package middlesand.sanecrates.animations;
+package middlesand.rewardcrates.animations;
 
-import middlesand.sanecrates.holograms.HologramAPIHookedHologram;
+import middlesand.rewardcrates.holograms.HologramAPIHookedHologram;
 
 public class CrateAnimation {
 

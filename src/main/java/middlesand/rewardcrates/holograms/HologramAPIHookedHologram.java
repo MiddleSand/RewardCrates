@@ -1,4 +1,4 @@
-package middlesand.sanecrates.holograms;
+package middlesand.rewardcrates.holograms;
 
 import org.bukkit.Location;
 

@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>middlesand</groupId>
-    <artifactId>SaneCrates</artifactId>
+    <artifactId>RewardCrates</artifactId>
     <version>0.0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>SaneCrates</name>
+    <name>RewardCrates</name>
 
     <properties>
         <java.version>1.8</java.version>
