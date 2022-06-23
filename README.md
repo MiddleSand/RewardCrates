@@ -9,4 +9,4 @@ Planned feature list:
 - Simple, easy-to-understand crate configuation through both configuration files and a GUI
 - Efficient multithreaded operation & support for modern frameworks
 
-Watch this resource to enjoy the plugin upon first release, or join our [Discord](https://discord.gg/SDenGHDFVX) for community & support!
+Watch this resource to enjoy the plugin upon first release, or join our [Discord](https://discord.gg/qaYgCqJj2X) for community & support!
