@@ -41,7 +41,7 @@ public class HologramManager {
         switch(supportedHolograms) {
             case HOLOGRAPHICDISPLAYS: {
                 Hologram holo = HologramsAPI.createHologram(rC, location);
-                HologramAPIHookedHologram holoHooked = new HologramAPIHookedHologram(holo.getClass(), holo);
+                HologramAPIHookedHologram holoHooked = new HologramAPIHookedHologram(holo);
                 return holoHooked;
             }
             case DECENTHOLOGRAMS: {
