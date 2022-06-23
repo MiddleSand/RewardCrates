@@ -3,4 +3,4 @@ version: '${project.version}'
 main: middlesand.rewardcrates.RewardCrates
 api-version: 1.19
 authors: [ Middle_Sand ]
-softdepend: [HolographicDisplays]
+softdepend: [HolographicDisplays, DecentHolograms]
