@@ -2,5 +2,5 @@ name: SaneCrates
 version: '${project.version}'
 main: middlesand.rewardcrates.RewardCrates
 api-version: 1.19
-authors: [ Middle_Sand ]
+authors: [ Middle_Sand, Taako ]
 softdepend: [HolographicDisplays, DecentHolograms]

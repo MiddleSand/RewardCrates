@@ -6,7 +6,7 @@
 
     <groupId>middlesand</groupId>
     <artifactId>RewardCrates</artifactId>
-    <version>0.0.0.1-SNAPSHOT</version>
+    <version>0.0.0.2</version>
     <packaging>jar</packaging>
 
     <name>RewardCrates</name>
@@ -54,7 +54,7 @@
 
     <repositories>
         <repository>
-            <id>spigotmc-repo</id>
+            <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </repository>
         <repository>
